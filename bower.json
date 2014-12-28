@@ -1,0 +1,23 @@
+{
+  "name": "canadian-sales-tax",
+  "version": "0.0.1",
+  "homepage": "github.com/wiredmax/canadian-sales-tax",
+  "authors": [
+    "Maxime Poulin <mpoulin@roux.ca>"
+  ],
+  "description": "Canadian sales tax in JSON",
+  "keywords": [
+    "canada",
+    "canadian",
+    "tax",
+    "sales tax"
+  ],
+  "license": "ODBL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
