@@ -1,0 +1,13 @@
+{
+    "NL": {
+        "name": "Newfoundland and Labrador",
+        "taxes": [
+            {
+                "code": "HST",
+                "name": "Harmonized Sales Tax",
+                "type": "harmonized",
+                "tax": 0.13
+            },
+        ],
+    }
+}
