@@ -1,0 +1,19 @@
+{
+    "BC": {
+        "name": "British Columbia",
+        "taxes": [
+            {
+                "code": "GST",
+                "name": "Goods and Services Tax",
+                "type": "federal",
+                "tax": 0.05
+            },
+            {
+                "code": "QST",
+                "name": "Provincial sales tax",
+                "type": "provincial",
+                "tax": 0.07
+            },
+        ],
+    }
+}
