@@ -1,0 +1,13 @@
+{
+    "PE": {
+        "name": "Prince Edward Island",
+        "taxes": [
+            {
+                "code": "HST",
+                "name": "Harmonized Sales Tax",
+                "type": "harmonized",
+                "tax": 0.14
+            },
+        ],
+    }
+}
