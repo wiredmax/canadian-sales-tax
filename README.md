@@ -1,4 +1,4 @@
-#Currency information in JSON.
+#Canadian sales tax in JSON.
 This repository contains sales tax information for all the Canadian provinces and territories in JSON format.
 
 ##Example
