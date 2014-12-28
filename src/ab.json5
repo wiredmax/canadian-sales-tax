@@ -1,0 +1,14 @@
+{
+    "AB": {
+        "name": "Alberta",
+        // Alberta doesn't currently have a sale provincial tax.
+        "taxes": [
+            {
+                "code": "GST",
+                "name": "Goods and Services Tax",
+                "type": "federal",
+                "tax": 0.05
+            }
+        ],
+    }
+}
