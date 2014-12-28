@@ -1,0 +1,13 @@
+{
+    "NT": {
+        "name": "Northwest Territories",
+        "taxes": [
+            {
+                "code": "GST",
+                "name": "Goods and Services Tax",
+                "type": "federal",
+                "tax": 0.05
+            }
+        ],
+    }
+}
