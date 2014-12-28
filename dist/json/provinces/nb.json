@@ -1,0 +1,13 @@
+{
+    "NB": {
+        "name": "New Brunswick",
+        "taxes": [
+            {
+                "code": "HST",
+                "name": "Harmonized Sales Tax",
+                "type": "harmonized",
+                "tax": 0.13
+            }
+        ]
+    }
+}

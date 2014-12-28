@@ -1,0 +1,13 @@
+{
+    "ON": {
+        "name": "Ontario",
+        "taxes": [
+            {
+                "code": "HST",
+                "name": "Harmonized Sales Tax",
+                "type": "harmonized",
+                "tax": 0.13
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "NS": {
+        "name": "Nova Scotia",
+        "taxes": [
+            {
+                "code": "HST",
+                "name": "Harmonized Sales Tax",
+                "type": "harmonized",
+                "tax": 0.15
+            }
+        ]
+    }
+}
