@@ -9,7 +9,7 @@
                 "tax": 0.05
             },
             {
-                "code": "QST",
+                "code": "PST",
                 "name": "Provincial sales tax",
                 "type": "provincial",
                 "tax": 0.08
