@@ -1,5 +1,9 @@
 # Versions
 
+## v0.0.5 - (2015/01/16)
+
+* Updated the README.md
+
 ## v0.0.4 - (2015/01/16)
 
 * Fixed missing digit in percentage for QST in Québec.

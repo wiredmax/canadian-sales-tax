@@ -18,7 +18,7 @@ This repository contains sales tax information for all the Canadian provinces an
               "code": "QST",
               "name": "Quebec Sales Tax",
               "type": "provincial",
-              "tax": 0.0975
+              "tax": 0.09975
           },
         ],
     }
