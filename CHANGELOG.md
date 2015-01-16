@@ -1,9 +1,12 @@
 # Versions
 
+## v0.0.4 - (2015/01/16)
+
+* Fixed missing digit in percentage for QST in Québec.
+
 ## v0.0.3 - (2014/12/29)
 
 * Bump version to keep npm package integrity.
-
 
 ## v0.0.2 - (2014/12/29)
 
