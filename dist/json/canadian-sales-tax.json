@@ -51,7 +51,7 @@
 				"code": "HST",
 				"name": "Harmonized Sales Tax",
 				"type": "harmonized",
-				"tax": 0.13
+				"tax": 0.15
 			}
 		]
 	},
@@ -62,7 +62,7 @@
 				"code": "HST",
 				"name": "Harmonized Sales Tax",
 				"type": "harmonized",
-				"tax": 0.13
+				"tax": 0.15
 			}
 		]
 	},
