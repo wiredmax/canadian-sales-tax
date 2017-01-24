@@ -1,5 +1,12 @@
 # Versions
 
+## v0.0.7 - (2016/08/23)
+
+* The HST for Prince Edward Island was increased one point to 15% on 1 October
+  2016.
+* Added the accent in the province name of Québec.
+
+
 ## v0.0.6 - (2016/08/23)
 
 * The HST for Newfoundland and New-Brunswick was increased two points to 10%
