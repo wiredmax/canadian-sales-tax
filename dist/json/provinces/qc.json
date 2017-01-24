@@ -1,6 +1,6 @@
 {
     "QC": {
-        "name": "Quebec",
+        "name": "Québec",
         "taxes": [
             {
                 "code": "GST",
@@ -10,7 +10,7 @@
             },
             {
                 "code": "QST",
-                "name": "Quebec Sales Tax",
+                "name": "Québec Sales Tax",
                 "type": "provincial",
                 "tax": 0.09975
             }

@@ -117,12 +117,12 @@
 				"code": "HST",
 				"name": "Harmonized Sales Tax",
 				"type": "harmonized",
-				"tax": 0.14
+				"tax": 0.15
 			}
 		]
 	},
 	"QC": {
-		"name": "Quebec",
+		"name": "Québec",
 		"taxes": [
 			{
 				"code": "GST",
@@ -132,7 +132,7 @@
 			},
 			{
 				"code": "QST",
-				"name": "Quebec Sales Tax",
+				"name": "Québec Sales Tax",
 				"type": "provincial",
 				"tax": 0.09975
 			}
