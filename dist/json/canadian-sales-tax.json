@@ -151,7 +151,7 @@
 				"code": "PST",
 				"name": "Provincial sales tax",
 				"type": "provincial",
-				"tax": 0.05
+				"tax": 0.06
 			}
 		]
 	},
