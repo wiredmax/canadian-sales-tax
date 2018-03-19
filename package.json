@@ -1,6 +1,6 @@
 {
   "name": "canadian-sales-tax",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Canadian sales tax in JSON",
   "repository": {
     "type": "git",
