@@ -1,7 +1,7 @@
 # Versions
 
-## v0.0.8 - (2018/03/23)
-On March 23, 2018, the Saskatchewan PST is raised from 5% to 6%.
+## v0.0.8 - (2018/03/19)
+On March 23, 2017, the Saskatchewan PST is raised from 5% to 6%.
 
 
 ## v0.0.7 - (2016/08/23)
